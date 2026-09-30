@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add your GitHub repo URL here](https://your-solution-url.com)
-- Live Site URL: [Add your live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/Chinomnso-Ugba/News-homepage.git
+- Live Site URL: https://news-homepage-rho-vert.vercel.app/
 
 ## My process
 
